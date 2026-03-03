@@ -1,1 +1,8 @@
-
+{
+    "name": "Karel Čáp",
+    "age": 18,
+    "interests": [
+        "Programování",
+        "Medicína",
+    ]
+}
